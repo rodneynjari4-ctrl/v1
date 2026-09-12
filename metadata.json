@@ -1,0 +1,6 @@
+{
+  "name": "VisionONE Access AI Assistant",
+  "description": "Official AI consultant and business management assistant for VisionONE Access ERP platform.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
